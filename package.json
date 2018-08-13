@@ -1,0 +1,18 @@
+{
+  "name": "js_singleton",
+  "version": "1.0.0",
+  "description": "the test project of singleton model",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "js",
+    "singleton",
+    "closure",
+    "self-executed"
+  ],
+  "author": "Zac",
+  "license": "ISC"
+}
