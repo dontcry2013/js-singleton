@@ -1,11 +1,10 @@
 # js-singleton
-The purpose of this project is test singleton model
-this is a tiny node.js project,no dependants required
-clone it and just run
+The purpose of this project is test singleton model, this is a tiny node.js project, no dependants required
+### clone it and just run
 ```
 npm start
 ```
-test url
+### test url
 ```
 http://localhost:4000/api/test
 http://localhost:4000/api/push
