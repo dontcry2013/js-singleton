@@ -12,5 +12,5 @@ http://localhost:4000/api/push
 http://localhost:4000/api/get
 ```
 # Expertise used in this project
-> closure is uesd to wrap private element
-> self-executed function return the model instance.
+> 1. closure is uesd to wrap private element
+> 2. self-executed function return the model instance.
